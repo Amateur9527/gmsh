@@ -18,4 +18,4 @@ Physical Volume("Fluid") = { 3, 4 };
 // Sphere(5) = {0, 0, 0, 1, -Pi/2, Pi/2, 2*Pi};
 // Characteristic Length{ PointsOf{ Volume{5};} } = 0.1;
 
-Mesh 2;
+Mesh 3;
